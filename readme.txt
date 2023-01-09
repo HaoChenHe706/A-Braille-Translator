@@ -1,5 +1,1 @@
-Hao Chen He
-ID: 260917762
-
-Worked on this assignment with the help of Jeff Ge, Luci Li, Peter Her, Yiwei Xiong and Sean Wang. 
-Had lots of problems with it..Couldn't finish it.
+A Braille Translator that can translate both the English and French language with all the information pertaining Braille taken from this Youtube video: https://www.youtube.com/watch?v=sqQ3gdE7ks0
